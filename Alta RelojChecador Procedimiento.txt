@@ -1,0 +1,24 @@
+Alta en RelojChecador
+1.Abrir ejecutable huellas
+-Entrar a carpeta 
+C:\Mysonda
+	Dist
+-Ejecutar app Lector huellas
+-Logearse con un usuario autorizado (logeo jjuarez, 194587) 1090cmla"!
+
+Mantenimiento
+	Registrar Empleado
+Llenar formulario con datos de Usuario
+
+Mantenimiento
+	Asignar Horario Corrido(Si es de sucursal)
+
+2.-Alta del usuario
+Seleccionar pestaña mantenimiento
+*Nota:
+Antes de guardar registro 
+asegurarse de cargar imagen .jpg y que las 4 huellas estes registradas
+
+3.-Revisar nuevo registro de alta en base de datos.
+Clave  Maestra:
+ADffer#%518Re&%#-2016
